@@ -1,2 +1,2 @@
 # HTML-CSS
-Javascript lab Programs are in this repository
+HTML-CSS Lab Programs are in this repository.
